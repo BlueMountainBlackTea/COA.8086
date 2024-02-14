@@ -4,14 +4,14 @@ Setup for COA lab
 # Table of Contents
 - [Requirements](##Requirements)
 - [Setup](##Setup)
-  - [dosbox config](###dosbox config)
+  - [dosbox config](###Config)
   - [build](###build.bat)
   
 ## Requirements
 - MS-DOS
 - MASM assembler
 ## Setup
-### dosbox config
+### Config
 Config files are usually located at  
 - Linux   : ```~/.config/dosbox/```
 - Windows :```C:\Users\USERNAME\AppData\Local\DOSBox\```
