@@ -6,7 +6,7 @@ if "%1"=="" echo Usage: %0 filename.asm
 rem Set the filename from the command-line argument
 set filename=%1
 
-echo Assembling proj.asm
+echo Assembling %filename%.asm
 masm %filename%.asm;
 
 if errorlevel 1 goto End
