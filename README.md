@@ -4,7 +4,7 @@ Setup for COA lab
 # Table of Contents
 - [Requirements](##Requirements)
 - [Setup](##Setup)
-  - [dosbox config](###Config)
+  - [DOSBOX config](###Config)
   - [build](###build.bat)
   
 ## Requirements
@@ -31,7 +31,7 @@ Used for assembling **and** executing the 8086 asm file on DOSBOX. Rough impleme
 ```bash
 build.bat <filename>
 ```
-Needs to be executable on Linux system
+Needs to be marked executable on Linux systems
 ```bash
 chmod +x build.bat
 ```
